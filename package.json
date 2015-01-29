@@ -1,0 +1,13 @@
+{
+  "name": "uba",
+  "version": "0.0.1",
+  "description": "Unbanked Bitcoin ATM Engine",
+  "author": "Jim Phillips <jim@ergophobia.org>",
+  "contributors": [{
+     "name": "Jim Phillips",
+     "email": "jim@ergophobia.org"
+  }],
+  "dependencies": {
+    "restify": "*"
+  }
+}
